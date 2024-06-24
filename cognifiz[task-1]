@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <meta characterset="UTF-8">
+    <head>
+        <title>Bavarian Motor Works</title>
+        <h1>BMW S1000 RR</h1>
+        <h2>super sport 1000cc Motor!</h2>
+    </head>
+    <body>
+        <p1>The BMW name is an acronym with a matter-of-fact meaning, but the German automaker has nevertheless become a global household name and a byword for an executive lifestyle driven by premium performance automobiles. To understand what BMW is all about, some context is in order. Here's an overview of the meaning, history, and continuing legacy of BMW.        </p1>
+        <h3>S 1000 RR</h3>
+        <p2>Standard: INR 20,75,000.00<br>
+            Pro: INR 23,10,000.00<br>
+            Pro M sport: INR 25,25,000.00 <br>
+            EMI starting from INR 29,999.* </p2>
+        <h4>S 1000 RR Key Highlights</h4>
+        <p3>Engine Capacity -999 cc<br>
+            Mileage - ARAI16 kmpl<br>
+            Transmission - 6 Speed Manual<br>
+            Kerb Weight - 197 kg<br>
+            Fuel Tank Capacity - 16.5 litres<br>
+            Seat Height - 824 mm</p3>
+        <h4>image</h4>
+        <a href="bmw.jpg">BMW-S1000RR</a>
+        
+    </body>
+</html>
